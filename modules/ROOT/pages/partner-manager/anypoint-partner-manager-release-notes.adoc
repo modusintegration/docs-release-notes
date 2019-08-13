@@ -6,6 +6,32 @@ endif::[]
 
 *xref:partner-manager::anypoint-partner-manager.adoc[Anypoint Partner Manager User Documentation]*
 
+== 1.26.8
+
+*August 12, 2019*
+
+
+=== Browser Support
+
+Anypoint Partner Manager, as a component of https://anypoint.mulesoft.com[Anypoint Platform], supports the following browsers:
+
+* Firefox (latest version)
+* Chrome (latest version)
+
+=== Compatibility
+
+Compatible with:
+
+* X12 Module 1.2.1
+* EDIFACT Module 1.2.1
+* Partner Manager Connector 6.x
+* FTPS Connector 1.x
+* AS2 Connector 2.x
+
+=== Fixed in this Release
+
+Issue with access token caching which caused login page to spin.
+
 == 1.26.1
 
 *February 16, 2019* 
